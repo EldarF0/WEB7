@@ -20,7 +20,7 @@ header img{
 header{
     color: #F64C72;
     text-shadow: 3px 3px 0px rgba(0,0,0,0.2); 
-    background-color:#190061;
+    background-color:#015105;
     height: 100px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
@@ -52,11 +52,11 @@ table,th,td{
     border: none;
 }
 tbody tr{
-    background-color: #282828;
+    background-color: #015105;
 }
 
 .td_name{
-    background-color: #240090
+    background-color: #015105;
 }
 
 
@@ -71,7 +71,7 @@ tbody tr{
 
 footer{
     color: #F64C72;
-    background-color:#190061; 
+    background-color:#015105;
     height: 60px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
